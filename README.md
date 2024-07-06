@@ -74,7 +74,9 @@ Copy code
 </html>
 
 Contributing
+
 Contributions are welcome! If you have any suggestions, or improvements, or find any issues, please create an issue or submit a pull request.
 
 License
+
 This project is licensed under the MIT License. See the LICENSE file for details.
