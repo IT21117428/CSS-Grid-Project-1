@@ -1,4 +1,4 @@
-#Project_1#
+Project_1
 
 This project demonstrates a simple grid layout using HTML and CSS. It includes responsive design features to adapt to different screen sizes.
 
