@@ -25,7 +25,7 @@ To get a local copy up and running follow these simple steps:
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/project_1.git
+git clone [https://github.com/your-username/project_1.git](https://github.com/IT21117428/CSS-Grid-Project-1)
 Open index.html in your web browser.
 
 Usage
